@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2ca1f482583301.5e0f5f67608a5.png)
-<h1 align="center">Hi 👋, I'm Arda Gürel</h1>
+<h1 align="center">Merhaba 👋, Ben Arda Gürel</h1>
 <h3 align="center">Kendi Çapımda Küçük Küçük Kodlarla Uğraşıyorum.</h3>
 
 - 🔭 Ne İle Uğraşıyorum [Oyun Yapıyorum](https://awdeuss.itch.io)
