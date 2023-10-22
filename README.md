@@ -1,14 +1,14 @@
-![MasterHead]([https://get.wallhere.com/photo/pokemon-video-games-pixel-art-pixels-1361959.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2ca1f482583301.5e0f5f67608a5.png))
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2ca1f482583301.5e0f5f67608a5.png)
 <h1 align="center">Hi 👋, I'm Arda Gürel</h1>
 <h3 align="center">Kendi Çapımda Küçük Küçük Kodlarla Uğraşıyorum.</h3>
 
-- 🔭 I’m currently working on [Oyun Yapıyorum](https://awdeuss.itch.io)
+- 🔭 Ne İle Uğraşıyorum [Oyun Yapıyorum](https://awdeuss.itch.io)
 
-- 💬 Ask me about **Discord, .replikas**
+- 💬 Önemli Olan Bişey **Discord, .replikas**
 
-- 📫 How to reach me **gurelarda36@gmail.com**
+- 📫 Bana Ulaşmak İstersen **ardafural@gmail.com**
 
-- ⚡ Fun fact **Sohbet Ederim HA!**
+- ⚡ BENİM **Sohbet Ederim HA!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
